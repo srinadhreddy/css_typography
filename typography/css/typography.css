@@ -1,0 +1,72 @@
+.space{
+      letter-spacing:30px;
+	  color:red;
+	  font-size:50px;
+}
+.lineheight{
+	          line-height:50px;
+			  color:green;
+			  font-size:40px;
+}
+.height{
+	    line-height:1px;
+		color:pink;
+		font-size:40px;
+}
+.align{
+	  text-align:center;
+	  color:skyblue;
+	  font-size:20px;
+}
+.indent{
+	 color:brown;
+	  font-size:20px;
+	  text-indent:50px;
+}
+.uppercase{
+	color:blue;
+	  font-size:30px;
+	  text-transform:uppercase;
+}
+.lowercase{
+	color:blue;
+	  font-size:30px;
+	  text-transform:lowercase;
+}
+.captilize{
+	color:blue;
+	  font-size:30px;
+	  text-transform:capitalize;
+}
+.vertical{
+	color:pink;
+	  font-size:90px;
+	  vertical-align:text-bottom;
+}
+.vertical1{
+	color:black;
+	  font-size:30px;
+	  vertical-align:text-top;
+	  margin-left:350px;
+	  margin-top:-110px;
+}
+.word{
+	color:green;
+	  font-size:20px;
+	  word-spacing:40px;
+}
+.direction{
+	color:yellow;
+	  font-size:25px;
+	  direction:ltr;
+}
+.direction1{
+	color:yellow;
+	  font-size:25px;
+	  direction:rtl;
+	  margin-right:550px;
+	  margin-top:10px;
+}
+.whitespace{
+	color:red;
+	  font-size:25px;
